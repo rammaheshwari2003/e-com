@@ -2,7 +2,7 @@
 body {
 	font-family: 'Roboto', sans-serif;
 	transition: all 0.5s;
-	overflow: hidden;
+/* 	overflow: hidden; */
 }
 p {
 	margin-bottom: 0px;
